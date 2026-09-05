@@ -1,0 +1,457 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1375" viewBox="0 0 1400 1375">
+<rect width="100%" height="100%" fill="#F8FAFC"/>
+<text x="200.0" y="70" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" fill="#52606D">1</text>
+<text x="118" y="161" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" fill="#52606D">1</text>
+<text x="300.0" y="70" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" fill="#52606D">2</text>
+<text x="118" y="261" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" fill="#52606D">2</text>
+<text x="400.0" y="70" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" fill="#52606D">3</text>
+<text x="118" y="361" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" fill="#52606D">3</text>
+<text x="500.0" y="70" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" fill="#52606D">4</text>
+<text x="118" y="461" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" fill="#52606D">4</text>
+<text x="600.0" y="70" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" fill="#52606D">5</text>
+<text x="118" y="561" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" fill="#52606D">5</text>
+<text x="700.0" y="70" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" fill="#52606D">6</text>
+<text x="118" y="661" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" fill="#52606D">6</text>
+<text x="800.0" y="70" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" fill="#52606D">7</text>
+<text x="118" y="761" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" fill="#52606D">7</text>
+<text x="900.0" y="70" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" fill="#52606D">8</text>
+<text x="118" y="861" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" fill="#52606D">8</text>
+<text x="1000.0" y="70" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" fill="#52606D">9</text>
+<text x="118" y="961" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" fill="#52606D">9</text>
+<text x="1100.0" y="70" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" fill="#52606D">10</text>
+<text x="118" y="1061" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" fill="#52606D">10</text>
+<text x="1200.0" y="70" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" fill="#52606D">11</text>
+<text x="118" y="1161" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" fill="#52606D">11</text>
+<rect x="150" y="100" width="100" height="100" fill="#CFE8FF"/>
+<text x="166" y="125" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">A</text>
+<rect x="250" y="100" width="100" height="100" fill="#CFE8FF"/>
+<text x="266" y="125" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">A</text>
+<rect x="350" y="100" width="100" height="100" fill="#CFE8FF"/>
+<text x="366" y="125" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">A</text>
+<polygon points="400.00,122.00 407.64,142.48 429.48,143.42 412.36,157.02 418.22,178.08 400.00,166.00 381.78,178.08 387.64,157.02 370.52,143.42 392.36,142.48" fill="#17212B" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round"/>
+<rect x="450" y="100" width="100" height="100" fill="#CFE8FF"/>
+<text x="466" y="125" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">A</text>
+<rect x="550" y="100" width="100" height="100" fill="#CFE8FF"/>
+<text x="566" y="125" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">A</text>
+<rect x="650" y="100" width="100" height="100" fill="#FFD9C7"/>
+<text x="666" y="125" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">B</text>
+<rect x="750" y="100" width="100" height="100" fill="#FFD9C7"/>
+<text x="766" y="125" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">B</text>
+<rect x="850" y="100" width="100" height="100" fill="#D9F2D0"/>
+<text x="866" y="125" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">C</text>
+<rect x="950" y="100" width="100" height="100" fill="#EEE0FF"/>
+<text x="966" y="125" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">D</text>
+<polygon points="1000.00,122.00 1007.64,142.48 1029.48,143.42 1012.36,157.02 1018.22,178.08 1000.00,166.00 981.78,178.08 987.64,157.02 970.52,143.42 992.36,142.48" fill="#17212B" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round"/>
+<rect x="1050" y="100" width="100" height="100" fill="#EEE0FF"/>
+<text x="1066" y="125" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">D</text>
+<rect x="1150" y="100" width="100" height="100" fill="#FFF0B8"/>
+<text x="1166" y="125" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">E</text>
+<rect x="150" y="200" width="100" height="100" fill="#CFE8FF"/>
+<text x="166" y="225" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">A</text>
+<rect x="250" y="200" width="100" height="100" fill="#CFE8FF"/>
+<text x="266" y="225" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">A</text>
+<rect x="350" y="200" width="100" height="100" fill="#CDEFEA"/>
+<text x="366" y="225" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">F</text>
+<rect x="450" y="200" width="100" height="100" fill="#CFE8FF"/>
+<text x="466" y="225" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">A</text>
+<rect x="550" y="200" width="100" height="100" fill="#CFE8FF"/>
+<text x="566" y="225" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">A</text>
+<rect x="650" y="200" width="100" height="100" fill="#FFD9C7"/>
+<text x="666" y="225" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">B</text>
+<rect x="750" y="200" width="100" height="100" fill="#D9F2D0"/>
+<text x="766" y="225" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">C</text>
+<polygon points="800.00,222.00 807.64,242.48 829.48,243.42 812.36,257.02 818.22,278.08 800.00,266.00 781.78,278.08 787.64,257.02 770.52,243.42 792.36,242.48" fill="#17212B" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round"/>
+<rect x="850" y="200" width="100" height="100" fill="#D9F2D0"/>
+<text x="866" y="225" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">C</text>
+<rect x="950" y="200" width="100" height="100" fill="#EEE0FF"/>
+<text x="966" y="225" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">D</text>
+<polygon points="1000.00,222.00 1007.64,242.48 1029.48,243.42 1012.36,257.02 1018.22,278.08 1000.00,266.00 981.78,278.08 987.64,257.02 970.52,243.42 992.36,242.48" fill="#17212B" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round"/>
+<rect x="1050" y="200" width="100" height="100" fill="#EEE0FF"/>
+<text x="1066" y="225" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">D</text>
+<rect x="1150" y="200" width="100" height="100" fill="#FFF0B8"/>
+<text x="1166" y="225" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">E</text>
+<rect x="150" y="300" width="100" height="100" fill="#CFE8FF"/>
+<text x="166" y="325" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">A</text>
+<rect x="250" y="300" width="100" height="100" fill="#CFE8FF"/>
+<text x="266" y="325" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">A</text>
+<rect x="350" y="300" width="100" height="100" fill="#CDEFEA"/>
+<text x="366" y="325" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">F</text>
+<rect x="450" y="300" width="100" height="100" fill="#FFD9C7"/>
+<text x="466" y="325" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">B</text>
+<rect x="550" y="300" width="100" height="100" fill="#FFD9C7"/>
+<text x="566" y="325" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">B</text>
+<rect x="650" y="300" width="100" height="100" fill="#FFD9C7"/>
+<text x="666" y="325" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">B</text>
+<rect x="750" y="300" width="100" height="100" fill="#FFD9C7"/>
+<text x="766" y="325" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">B</text>
+<polygon points="800.00,322.00 807.64,342.48 829.48,343.42 812.36,357.02 818.22,378.08 800.00,366.00 781.78,378.08 787.64,357.02 770.52,343.42 792.36,342.48" fill="#17212B" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round"/>
+<rect x="850" y="300" width="100" height="100" fill="#D9F2D0"/>
+<text x="866" y="325" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">C</text>
+<polygon points="900.00,322.00 907.64,342.48 929.48,343.42 912.36,357.02 918.22,378.08 900.00,366.00 881.78,378.08 887.64,357.02 870.52,343.42 892.36,342.48" fill="#17212B" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round"/>
+<rect x="950" y="300" width="100" height="100" fill="#D9F2D0"/>
+<text x="966" y="325" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">C</text>
+<rect x="1050" y="300" width="100" height="100" fill="#EEE0FF"/>
+<text x="1066" y="325" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">D</text>
+<rect x="1150" y="300" width="100" height="100" fill="#FFF0B8"/>
+<text x="1166" y="325" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">E</text>
+<rect x="150" y="400" width="100" height="100" fill="#CFE8FF"/>
+<text x="166" y="425" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">A</text>
+<rect x="250" y="400" width="100" height="100" fill="#CFE8FF"/>
+<text x="266" y="425" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">A</text>
+<polygon points="300.00,422.00 307.64,442.48 329.48,443.42 312.36,457.02 318.22,478.08 300.00,466.00 281.78,478.08 287.64,457.02 270.52,443.42 292.36,442.48" fill="#17212B" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round"/>
+<rect x="350" y="400" width="100" height="100" fill="#CDEFEA"/>
+<text x="366" y="425" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">F</text>
+<rect x="450" y="400" width="100" height="100" fill="#FFD9C7"/>
+<text x="466" y="425" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">B</text>
+<rect x="550" y="400" width="100" height="100" fill="#F8D2E2"/>
+<text x="566" y="425" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">G</text>
+<rect x="650" y="400" width="100" height="100" fill="#F8D2E2"/>
+<text x="666" y="425" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">G</text>
+<polygon points="700.00,422.00 707.64,442.48 729.48,443.42 712.36,457.02 718.22,478.08 700.00,466.00 681.78,478.08 687.64,457.02 670.52,443.42 692.36,442.48" fill="#17212B" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round"/>
+<rect x="750" y="400" width="100" height="100" fill="#F8D2E2"/>
+<text x="766" y="425" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">G</text>
+<rect x="850" y="400" width="100" height="100" fill="#FFF0B8"/>
+<text x="866" y="425" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">E</text>
+<rect x="950" y="400" width="100" height="100" fill="#D9F2D0"/>
+<text x="966" y="425" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">C</text>
+<rect x="1050" y="400" width="100" height="100" fill="#D9F2D0"/>
+<text x="1066" y="425" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">C</text>
+<rect x="1150" y="400" width="100" height="100" fill="#FFF0B8"/>
+<text x="1166" y="425" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">E</text>
+<rect x="150" y="500" width="100" height="100" fill="#CDEFEA"/>
+<text x="166" y="525" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">F</text>
+<polygon points="200.00,522.00 207.64,542.48 229.48,543.42 212.36,557.02 218.22,578.08 200.00,566.00 181.78,578.08 187.64,557.02 170.52,543.42 192.36,542.48" fill="#17212B" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round"/>
+<rect x="250" y="500" width="100" height="100" fill="#CFE8FF"/>
+<text x="266" y="525" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">A</text>
+<rect x="350" y="500" width="100" height="100" fill="#CDEFEA"/>
+<text x="366" y="525" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">F</text>
+<polygon points="400.00,522.00 407.64,542.48 429.48,543.42 412.36,557.02 418.22,578.08 400.00,566.00 381.78,578.08 387.64,557.02 370.52,543.42 392.36,542.48" fill="#17212B" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round"/>
+<rect x="450" y="500" width="100" height="100" fill="#FFD9C7"/>
+<text x="466" y="525" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">B</text>
+<rect x="550" y="500" width="100" height="100" fill="#F8D2E2"/>
+<text x="566" y="525" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">G</text>
+<rect x="650" y="500" width="100" height="100" fill="#FFF0B8"/>
+<text x="666" y="525" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">E</text>
+<rect x="750" y="500" width="100" height="100" fill="#FFF0B8"/>
+<text x="766" y="525" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">E</text>
+<rect x="850" y="500" width="100" height="100" fill="#FFF0B8"/>
+<text x="866" y="525" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">E</text>
+<rect x="950" y="500" width="100" height="100" fill="#FFF0B8"/>
+<text x="966" y="525" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">E</text>
+<rect x="1050" y="500" width="100" height="100" fill="#FFF0B8"/>
+<text x="1066" y="525" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">E</text>
+<rect x="1150" y="500" width="100" height="100" fill="#FFF0B8"/>
+<text x="1166" y="525" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">E</text>
+<rect x="150" y="600" width="100" height="100" fill="#CDEFEA"/>
+<text x="166" y="625" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">F</text>
+<rect x="250" y="600" width="100" height="100" fill="#CDEFEA"/>
+<text x="266" y="625" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">F</text>
+<rect x="350" y="600" width="100" height="100" fill="#CDEFEA"/>
+<text x="366" y="625" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">F</text>
+<rect x="450" y="600" width="100" height="100" fill="#FFD9C7"/>
+<text x="466" y="625" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">B</text>
+<rect x="550" y="600" width="100" height="100" fill="#F8D2E2"/>
+<text x="566" y="625" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">G</text>
+<rect x="650" y="600" width="100" height="100" fill="#F8D2E2"/>
+<text x="666" y="625" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">G</text>
+<polygon points="700.00,622.00 707.64,642.48 729.48,643.42 712.36,657.02 718.22,678.08 700.00,666.00 681.78,678.08 687.64,657.02 670.52,643.42 692.36,642.48" fill="#17212B" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round"/>
+<rect x="750" y="600" width="100" height="100" fill="#F8D2E2"/>
+<text x="766" y="625" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">G</text>
+<rect x="850" y="600" width="100" height="100" fill="#FFF0B8"/>
+<text x="866" y="625" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">E</text>
+<rect x="950" y="600" width="100" height="100" fill="#DCE0FA"/>
+<text x="966" y="625" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">H</text>
+<rect x="1050" y="600" width="100" height="100" fill="#DCE0FA"/>
+<text x="1066" y="625" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">H</text>
+<rect x="1150" y="600" width="100" height="100" fill="#DCE0FA"/>
+<text x="1166" y="625" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">H</text>
+<polygon points="1200.00,622.00 1207.64,642.48 1229.48,643.42 1212.36,657.02 1218.22,678.08 1200.00,666.00 1181.78,678.08 1187.64,657.02 1170.52,643.42 1192.36,642.48" fill="#17212B" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round"/>
+<rect x="150" y="700" width="100" height="100" fill="#FFD9C7"/>
+<text x="166" y="725" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">B</text>
+<rect x="250" y="700" width="100" height="100" fill="#FFD9C7"/>
+<text x="266" y="725" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">B</text>
+<rect x="350" y="700" width="100" height="100" fill="#FFD9C7"/>
+<text x="366" y="725" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">B</text>
+<rect x="450" y="700" width="100" height="100" fill="#FFD9C7"/>
+<text x="466" y="725" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">B</text>
+<rect x="550" y="700" width="100" height="100" fill="#FFD9C7"/>
+<text x="566" y="725" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">B</text>
+<rect x="650" y="700" width="100" height="100" fill="#FFD9C7"/>
+<text x="666" y="725" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">B</text>
+<rect x="750" y="700" width="100" height="100" fill="#F8D2E2"/>
+<text x="766" y="725" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">G</text>
+<rect x="850" y="700" width="100" height="100" fill="#FFF0B8"/>
+<text x="866" y="725" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">E</text>
+<rect x="950" y="700" width="100" height="100" fill="#DCE0FA"/>
+<text x="966" y="725" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">H</text>
+<rect x="1050" y="700" width="100" height="100" fill="#D8EDC4"/>
+<text x="1066" y="725" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">I</text>
+<polygon points="1100.00,722.00 1107.64,742.48 1129.48,743.42 1112.36,757.02 1118.22,778.08 1100.00,766.00 1081.78,778.08 1087.64,757.02 1070.52,743.42 1092.36,742.48" fill="#17212B" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round"/>
+<rect x="1150" y="700" width="100" height="100" fill="#D8EDC4"/>
+<text x="1166" y="725" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">I</text>
+<polygon points="1200.00,722.00 1207.64,742.48 1229.48,743.42 1212.36,757.02 1218.22,778.08 1200.00,766.00 1181.78,778.08 1187.64,757.02 1170.52,743.42 1192.36,742.48" fill="#17212B" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round"/>
+<rect x="150" y="800" width="100" height="100" fill="#FFD9C7"/>
+<text x="166" y="825" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">B</text>
+<rect x="250" y="800" width="100" height="100" fill="#F9DCC4"/>
+<text x="266" y="825" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">J</text>
+<polygon points="300.00,822.00 307.64,842.48 329.48,843.42 312.36,857.02 318.22,878.08 300.00,866.00 281.78,878.08 287.64,857.02 270.52,843.42 292.36,842.48" fill="#17212B" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round"/>
+<rect x="350" y="800" width="100" height="100" fill="#F9DCC4"/>
+<text x="366" y="825" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">J</text>
+<rect x="450" y="800" width="100" height="100" fill="#F9DCC4"/>
+<text x="466" y="825" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">J</text>
+<polygon points="500.00,822.00 507.64,842.48 529.48,843.42 512.36,857.02 518.22,878.08 500.00,866.00 481.78,878.08 487.64,857.02 470.52,843.42 492.36,842.48" fill="#17212B" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round"/>
+<rect x="550" y="800" width="100" height="100" fill="#F8D2E2"/>
+<text x="566" y="825" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">G</text>
+<rect x="650" y="800" width="100" height="100" fill="#F8D2E2"/>
+<text x="666" y="825" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">G</text>
+<rect x="750" y="800" width="100" height="100" fill="#F8D2E2"/>
+<text x="766" y="825" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">G</text>
+<rect x="850" y="800" width="100" height="100" fill="#FFF0B8"/>
+<text x="866" y="825" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">E</text>
+<rect x="950" y="800" width="100" height="100" fill="#DCE0FA"/>
+<text x="966" y="825" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">H</text>
+<rect x="1050" y="800" width="100" height="100" fill="#D8EDC4"/>
+<text x="1066" y="825" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">I</text>
+<rect x="1150" y="800" width="100" height="100" fill="#D8EDC4"/>
+<text x="1166" y="825" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">I</text>
+<rect x="150" y="900" width="100" height="100" fill="#FFD9C7"/>
+<text x="166" y="925" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">B</text>
+<rect x="250" y="900" width="100" height="100" fill="#F9DCC4"/>
+<text x="266" y="925" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">J</text>
+<rect x="350" y="900" width="100" height="100" fill="#F9DCC4"/>
+<text x="366" y="925" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">J</text>
+<rect x="450" y="900" width="100" height="100" fill="#D7D7D7"/>
+<text x="466" y="925" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">K</text>
+<polygon points="500.00,922.00 507.64,942.48 529.48,943.42 512.36,957.02 518.22,978.08 500.00,966.00 481.78,978.08 487.64,957.02 470.52,943.42 492.36,942.48" fill="#17212B" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round"/>
+<rect x="550" y="900" width="100" height="100" fill="#FFF0B8"/>
+<text x="566" y="925" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">E</text>
+<rect x="650" y="900" width="100" height="100" fill="#FFF0B8"/>
+<text x="666" y="925" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">E</text>
+<rect x="750" y="900" width="100" height="100" fill="#FFF0B8"/>
+<text x="766" y="925" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">E</text>
+<rect x="850" y="900" width="100" height="100" fill="#FFF0B8"/>
+<text x="866" y="925" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">E</text>
+<polygon points="900.00,922.00 907.64,942.48 929.48,943.42 912.36,957.02 918.22,978.08 900.00,966.00 881.78,978.08 887.64,957.02 870.52,943.42 892.36,942.48" fill="#17212B" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round"/>
+<rect x="950" y="900" width="100" height="100" fill="#DCE0FA"/>
+<text x="966" y="925" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">H</text>
+<rect x="1050" y="900" width="100" height="100" fill="#D8EDC4"/>
+<text x="1066" y="925" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">I</text>
+<rect x="1150" y="900" width="100" height="100" fill="#D8EDC4"/>
+<text x="1166" y="925" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">I</text>
+<rect x="150" y="1000" width="100" height="100" fill="#FFD9C7"/>
+<text x="166" y="1025" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">B</text>
+<rect x="250" y="1000" width="100" height="100" fill="#FFD9C7"/>
+<text x="266" y="1025" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">B</text>
+<rect x="350" y="1000" width="100" height="100" fill="#F9DCC4"/>
+<text x="366" y="1025" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">J</text>
+<rect x="450" y="1000" width="100" height="100" fill="#D7D7D7"/>
+<text x="466" y="1025" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">K</text>
+<rect x="550" y="1000" width="100" height="100" fill="#D7D7D7"/>
+<text x="566" y="1025" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">K</text>
+<polygon points="600.00,1022.00 607.64,1042.48 629.48,1043.42 612.36,1057.02 618.22,1078.08 600.00,1066.00 581.78,1078.08 587.64,1057.02 570.52,1043.42 592.36,1042.48" fill="#17212B" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round"/>
+<rect x="650" y="1000" width="100" height="100" fill="#FFF0B8"/>
+<text x="666" y="1025" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">E</text>
+<rect x="750" y="1000" width="100" height="100" fill="#FFF0B8"/>
+<text x="766" y="1025" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">E</text>
+<rect x="850" y="1000" width="100" height="100" fill="#FFF0B8"/>
+<text x="866" y="1025" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">E</text>
+<rect x="950" y="1000" width="100" height="100" fill="#DCE0FA"/>
+<text x="966" y="1025" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">H</text>
+<rect x="1050" y="1000" width="100" height="100" fill="#DCE0FA"/>
+<text x="1066" y="1025" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">H</text>
+<polygon points="1100.00,1022.00 1107.64,1042.48 1129.48,1043.42 1112.36,1057.02 1118.22,1078.08 1100.00,1066.00 1081.78,1078.08 1087.64,1057.02 1070.52,1043.42 1092.36,1042.48" fill="#17212B" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round"/>
+<rect x="1150" y="1000" width="100" height="100" fill="#DCE0FA"/>
+<text x="1166" y="1025" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">H</text>
+<rect x="150" y="1100" width="100" height="100" fill="#FFD9C7"/>
+<text x="166" y="1125" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">B</text>
+<polygon points="200.00,1122.00 207.64,1142.48 229.48,1143.42 212.36,1157.02 218.22,1178.08 200.00,1166.00 181.78,1178.08 187.64,1157.02 170.52,1143.42 192.36,1142.48" fill="#17212B" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round"/>
+<rect x="250" y="1100" width="100" height="100" fill="#F9DCC4"/>
+<text x="266" y="1125" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">J</text>
+<rect x="350" y="1100" width="100" height="100" fill="#F9DCC4"/>
+<text x="366" y="1125" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">J</text>
+<rect x="450" y="1100" width="100" height="100" fill="#D7D7D7"/>
+<text x="466" y="1125" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">K</text>
+<rect x="550" y="1100" width="100" height="100" fill="#FFF0B8"/>
+<text x="566" y="1125" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">E</text>
+<polygon points="600.00,1122.00 607.64,1142.48 629.48,1143.42 612.36,1157.02 618.22,1178.08 600.00,1166.00 581.78,1178.08 587.64,1157.02 570.52,1143.42 592.36,1142.48" fill="#17212B" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round"/>
+<rect x="650" y="1100" width="100" height="100" fill="#FFF0B8"/>
+<text x="666" y="1125" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">E</text>
+<rect x="750" y="1100" width="100" height="100" fill="#FFF0B8"/>
+<text x="766" y="1125" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">E</text>
+<rect x="850" y="1100" width="100" height="100" fill="#FFF0B8"/>
+<text x="866" y="1125" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">E</text>
+<rect x="950" y="1100" width="100" height="100" fill="#FFF0B8"/>
+<text x="966" y="1125" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">E</text>
+<rect x="1050" y="1100" width="100" height="100" fill="#FFF0B8"/>
+<text x="1066" y="1125" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">E</text>
+<rect x="1150" y="1100" width="100" height="100" fill="#FFF0B8"/>
+<text x="1166" y="1125" text-anchor="start" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#52606D">E</text>
+<line x1="150" y1="100" x2="150" y2="1200" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="150" y1="100" x2="1250" y2="100" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="250" y1="100" x2="250" y2="1200" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="150" y1="200" x2="1250" y2="200" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="350" y1="100" x2="350" y2="1200" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="150" y1="300" x2="1250" y2="300" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="450" y1="100" x2="450" y2="1200" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="150" y1="400" x2="1250" y2="400" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="550" y1="100" x2="550" y2="1200" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="150" y1="500" x2="1250" y2="500" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="650" y1="100" x2="650" y2="1200" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="150" y1="600" x2="1250" y2="600" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="750" y1="100" x2="750" y2="1200" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="150" y1="700" x2="1250" y2="700" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="850" y1="100" x2="850" y2="1200" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="150" y1="800" x2="1250" y2="800" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="950" y1="100" x2="950" y2="1200" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="150" y1="900" x2="1250" y2="900" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="1050" y1="100" x2="1050" y2="1200" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="150" y1="1000" x2="1250" y2="1000" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="1150" y1="100" x2="1150" y2="1200" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="150" y1="1100" x2="1250" y2="1100" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="1250" y1="100" x2="1250" y2="1200" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="150" y1="1200" x2="1250" y2="1200" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="150" y1="100" x2="250" y2="100" stroke="#17212B" stroke-width="7"/>
+<line x1="150" y1="100" x2="150" y2="200" stroke="#17212B" stroke-width="7"/>
+<line x1="250" y1="100" x2="350" y2="100" stroke="#17212B" stroke-width="7"/>
+<line x1="350" y1="100" x2="450" y2="100" stroke="#17212B" stroke-width="7"/>
+<line x1="450" y1="100" x2="550" y2="100" stroke="#17212B" stroke-width="7"/>
+<line x1="550" y1="100" x2="650" y2="100" stroke="#17212B" stroke-width="7"/>
+<line x1="650" y1="100" x2="750" y2="100" stroke="#17212B" stroke-width="7"/>
+<line x1="650" y1="100" x2="650" y2="200" stroke="#17212B" stroke-width="7"/>
+<line x1="750" y1="100" x2="850" y2="100" stroke="#17212B" stroke-width="7"/>
+<line x1="850" y1="100" x2="950" y2="100" stroke="#17212B" stroke-width="7"/>
+<line x1="850" y1="100" x2="850" y2="200" stroke="#17212B" stroke-width="7"/>
+<line x1="950" y1="100" x2="1050" y2="100" stroke="#17212B" stroke-width="7"/>
+<line x1="950" y1="100" x2="950" y2="200" stroke="#17212B" stroke-width="7"/>
+<line x1="1050" y1="100" x2="1150" y2="100" stroke="#17212B" stroke-width="7"/>
+<line x1="1150" y1="100" x2="1250" y2="100" stroke="#17212B" stroke-width="7"/>
+<line x1="1150" y1="100" x2="1150" y2="200" stroke="#17212B" stroke-width="7"/>
+<line x1="1250" y1="100" x2="1250" y2="200" stroke="#17212B" stroke-width="7"/>
+<line x1="150" y1="200" x2="150" y2="300" stroke="#17212B" stroke-width="7"/>
+<line x1="350" y1="200" x2="450" y2="200" stroke="#17212B" stroke-width="7"/>
+<line x1="350" y1="200" x2="350" y2="300" stroke="#17212B" stroke-width="7"/>
+<line x1="450" y1="200" x2="450" y2="300" stroke="#17212B" stroke-width="7"/>
+<line x1="650" y1="200" x2="650" y2="300" stroke="#17212B" stroke-width="7"/>
+<line x1="750" y1="200" x2="850" y2="200" stroke="#17212B" stroke-width="7"/>
+<line x1="750" y1="200" x2="750" y2="300" stroke="#17212B" stroke-width="7"/>
+<line x1="950" y1="200" x2="950" y2="300" stroke="#17212B" stroke-width="7"/>
+<line x1="1150" y1="200" x2="1150" y2="300" stroke="#17212B" stroke-width="7"/>
+<line x1="1250" y1="200" x2="1250" y2="300" stroke="#17212B" stroke-width="7"/>
+<line x1="150" y1="300" x2="150" y2="400" stroke="#17212B" stroke-width="7"/>
+<line x1="350" y1="300" x2="350" y2="400" stroke="#17212B" stroke-width="7"/>
+<line x1="450" y1="300" x2="550" y2="300" stroke="#17212B" stroke-width="7"/>
+<line x1="450" y1="300" x2="450" y2="400" stroke="#17212B" stroke-width="7"/>
+<line x1="550" y1="300" x2="650" y2="300" stroke="#17212B" stroke-width="7"/>
+<line x1="750" y1="300" x2="850" y2="300" stroke="#17212B" stroke-width="7"/>
+<line x1="850" y1="300" x2="850" y2="400" stroke="#17212B" stroke-width="7"/>
+<line x1="950" y1="300" x2="1050" y2="300" stroke="#17212B" stroke-width="7"/>
+<line x1="1050" y1="300" x2="1050" y2="400" stroke="#17212B" stroke-width="7"/>
+<line x1="1150" y1="300" x2="1150" y2="400" stroke="#17212B" stroke-width="7"/>
+<line x1="1250" y1="300" x2="1250" y2="400" stroke="#17212B" stroke-width="7"/>
+<line x1="150" y1="400" x2="150" y2="500" stroke="#17212B" stroke-width="7"/>
+<line x1="350" y1="400" x2="350" y2="500" stroke="#17212B" stroke-width="7"/>
+<line x1="450" y1="400" x2="450" y2="500" stroke="#17212B" stroke-width="7"/>
+<line x1="550" y1="400" x2="650" y2="400" stroke="#17212B" stroke-width="7"/>
+<line x1="550" y1="400" x2="550" y2="500" stroke="#17212B" stroke-width="7"/>
+<line x1="650" y1="400" x2="750" y2="400" stroke="#17212B" stroke-width="7"/>
+<line x1="750" y1="400" x2="850" y2="400" stroke="#17212B" stroke-width="7"/>
+<line x1="850" y1="400" x2="950" y2="400" stroke="#17212B" stroke-width="7"/>
+<line x1="850" y1="400" x2="850" y2="500" stroke="#17212B" stroke-width="7"/>
+<line x1="950" y1="400" x2="950" y2="500" stroke="#17212B" stroke-width="7"/>
+<line x1="1050" y1="400" x2="1150" y2="400" stroke="#17212B" stroke-width="7"/>
+<line x1="1150" y1="400" x2="1150" y2="500" stroke="#17212B" stroke-width="7"/>
+<line x1="1250" y1="400" x2="1250" y2="500" stroke="#17212B" stroke-width="7"/>
+<line x1="150" y1="500" x2="250" y2="500" stroke="#17212B" stroke-width="7"/>
+<line x1="150" y1="500" x2="150" y2="600" stroke="#17212B" stroke-width="7"/>
+<line x1="250" y1="500" x2="250" y2="600" stroke="#17212B" stroke-width="7"/>
+<line x1="350" y1="500" x2="350" y2="600" stroke="#17212B" stroke-width="7"/>
+<line x1="450" y1="500" x2="450" y2="600" stroke="#17212B" stroke-width="7"/>
+<line x1="550" y1="500" x2="550" y2="600" stroke="#17212B" stroke-width="7"/>
+<line x1="650" y1="500" x2="750" y2="500" stroke="#17212B" stroke-width="7"/>
+<line x1="650" y1="500" x2="650" y2="600" stroke="#17212B" stroke-width="7"/>
+<line x1="750" y1="500" x2="850" y2="500" stroke="#17212B" stroke-width="7"/>
+<line x1="950" y1="500" x2="1050" y2="500" stroke="#17212B" stroke-width="7"/>
+<line x1="1050" y1="500" x2="1150" y2="500" stroke="#17212B" stroke-width="7"/>
+<line x1="1250" y1="500" x2="1250" y2="600" stroke="#17212B" stroke-width="7"/>
+<line x1="150" y1="600" x2="150" y2="700" stroke="#17212B" stroke-width="7"/>
+<line x1="250" y1="600" x2="350" y2="600" stroke="#17212B" stroke-width="7"/>
+<line x1="450" y1="600" x2="450" y2="700" stroke="#17212B" stroke-width="7"/>
+<line x1="550" y1="600" x2="550" y2="700" stroke="#17212B" stroke-width="7"/>
+<line x1="650" y1="600" x2="750" y2="600" stroke="#17212B" stroke-width="7"/>
+<line x1="750" y1="600" x2="850" y2="600" stroke="#17212B" stroke-width="7"/>
+<line x1="850" y1="600" x2="850" y2="700" stroke="#17212B" stroke-width="7"/>
+<line x1="950" y1="600" x2="1050" y2="600" stroke="#17212B" stroke-width="7"/>
+<line x1="950" y1="600" x2="950" y2="700" stroke="#17212B" stroke-width="7"/>
+<line x1="1050" y1="600" x2="1150" y2="600" stroke="#17212B" stroke-width="7"/>
+<line x1="1150" y1="600" x2="1250" y2="600" stroke="#17212B" stroke-width="7"/>
+<line x1="1250" y1="600" x2="1250" y2="700" stroke="#17212B" stroke-width="7"/>
+<line x1="150" y1="700" x2="250" y2="700" stroke="#17212B" stroke-width="7"/>
+<line x1="150" y1="700" x2="150" y2="800" stroke="#17212B" stroke-width="7"/>
+<line x1="250" y1="700" x2="350" y2="700" stroke="#17212B" stroke-width="7"/>
+<line x1="350" y1="700" x2="450" y2="700" stroke="#17212B" stroke-width="7"/>
+<line x1="550" y1="700" x2="650" y2="700" stroke="#17212B" stroke-width="7"/>
+<line x1="650" y1="700" x2="750" y2="700" stroke="#17212B" stroke-width="7"/>
+<line x1="750" y1="700" x2="750" y2="800" stroke="#17212B" stroke-width="7"/>
+<line x1="850" y1="700" x2="850" y2="800" stroke="#17212B" stroke-width="7"/>
+<line x1="950" y1="700" x2="950" y2="800" stroke="#17212B" stroke-width="7"/>
+<line x1="1050" y1="700" x2="1150" y2="700" stroke="#17212B" stroke-width="7"/>
+<line x1="1050" y1="700" x2="1050" y2="800" stroke="#17212B" stroke-width="7"/>
+<line x1="1150" y1="700" x2="1250" y2="700" stroke="#17212B" stroke-width="7"/>
+<line x1="1250" y1="700" x2="1250" y2="800" stroke="#17212B" stroke-width="7"/>
+<line x1="150" y1="800" x2="150" y2="900" stroke="#17212B" stroke-width="7"/>
+<line x1="250" y1="800" x2="350" y2="800" stroke="#17212B" stroke-width="7"/>
+<line x1="250" y1="800" x2="250" y2="900" stroke="#17212B" stroke-width="7"/>
+<line x1="350" y1="800" x2="450" y2="800" stroke="#17212B" stroke-width="7"/>
+<line x1="450" y1="800" x2="550" y2="800" stroke="#17212B" stroke-width="7"/>
+<line x1="550" y1="800" x2="650" y2="800" stroke="#17212B" stroke-width="7"/>
+<line x1="550" y1="800" x2="550" y2="900" stroke="#17212B" stroke-width="7"/>
+<line x1="650" y1="800" x2="750" y2="800" stroke="#17212B" stroke-width="7"/>
+<line x1="850" y1="800" x2="850" y2="900" stroke="#17212B" stroke-width="7"/>
+<line x1="950" y1="800" x2="950" y2="900" stroke="#17212B" stroke-width="7"/>
+<line x1="1050" y1="800" x2="1050" y2="900" stroke="#17212B" stroke-width="7"/>
+<line x1="1250" y1="800" x2="1250" y2="900" stroke="#17212B" stroke-width="7"/>
+<line x1="150" y1="900" x2="150" y2="1000" stroke="#17212B" stroke-width="7"/>
+<line x1="250" y1="900" x2="250" y2="1000" stroke="#17212B" stroke-width="7"/>
+<line x1="450" y1="900" x2="550" y2="900" stroke="#17212B" stroke-width="7"/>
+<line x1="450" y1="900" x2="450" y2="1000" stroke="#17212B" stroke-width="7"/>
+<line x1="550" y1="900" x2="650" y2="900" stroke="#17212B" stroke-width="7"/>
+<line x1="550" y1="900" x2="550" y2="1000" stroke="#17212B" stroke-width="7"/>
+<line x1="650" y1="900" x2="750" y2="900" stroke="#17212B" stroke-width="7"/>
+<line x1="750" y1="900" x2="850" y2="900" stroke="#17212B" stroke-width="7"/>
+<line x1="950" y1="900" x2="950" y2="1000" stroke="#17212B" stroke-width="7"/>
+<line x1="1050" y1="900" x2="1050" y2="1000" stroke="#17212B" stroke-width="7"/>
+<line x1="1250" y1="900" x2="1250" y2="1000" stroke="#17212B" stroke-width="7"/>
+<line x1="150" y1="1000" x2="150" y2="1100" stroke="#17212B" stroke-width="7"/>
+<line x1="250" y1="1000" x2="350" y2="1000" stroke="#17212B" stroke-width="7"/>
+<line x1="350" y1="1000" x2="350" y2="1100" stroke="#17212B" stroke-width="7"/>
+<line x1="450" y1="1000" x2="450" y2="1100" stroke="#17212B" stroke-width="7"/>
+<line x1="550" y1="1000" x2="650" y2="1000" stroke="#17212B" stroke-width="7"/>
+<line x1="650" y1="1000" x2="650" y2="1100" stroke="#17212B" stroke-width="7"/>
+<line x1="950" y1="1000" x2="950" y2="1100" stroke="#17212B" stroke-width="7"/>
+<line x1="1050" y1="1000" x2="1150" y2="1000" stroke="#17212B" stroke-width="7"/>
+<line x1="1150" y1="1000" x2="1250" y2="1000" stroke="#17212B" stroke-width="7"/>
+<line x1="1250" y1="1000" x2="1250" y2="1100" stroke="#17212B" stroke-width="7"/>
+<line x1="150" y1="1100" x2="150" y2="1200" stroke="#17212B" stroke-width="7"/>
+<line x1="150" y1="1200" x2="250" y2="1200" stroke="#17212B" stroke-width="7"/>
+<line x1="250" y1="1100" x2="350" y2="1100" stroke="#17212B" stroke-width="7"/>
+<line x1="250" y1="1100" x2="250" y2="1200" stroke="#17212B" stroke-width="7"/>
+<line x1="250" y1="1200" x2="350" y2="1200" stroke="#17212B" stroke-width="7"/>
+<line x1="350" y1="1200" x2="450" y2="1200" stroke="#17212B" stroke-width="7"/>
+<line x1="450" y1="1100" x2="450" y2="1200" stroke="#17212B" stroke-width="7"/>
+<line x1="450" y1="1200" x2="550" y2="1200" stroke="#17212B" stroke-width="7"/>
+<line x1="550" y1="1100" x2="650" y2="1100" stroke="#17212B" stroke-width="7"/>
+<line x1="550" y1="1100" x2="550" y2="1200" stroke="#17212B" stroke-width="7"/>
+<line x1="550" y1="1200" x2="650" y2="1200" stroke="#17212B" stroke-width="7"/>
+<line x1="650" y1="1200" x2="750" y2="1200" stroke="#17212B" stroke-width="7"/>
+<line x1="750" y1="1200" x2="850" y2="1200" stroke="#17212B" stroke-width="7"/>
+<line x1="850" y1="1200" x2="950" y2="1200" stroke="#17212B" stroke-width="7"/>
+<line x1="950" y1="1100" x2="1050" y2="1100" stroke="#17212B" stroke-width="7"/>
+<line x1="950" y1="1200" x2="1050" y2="1200" stroke="#17212B" stroke-width="7"/>
+<line x1="1050" y1="1100" x2="1150" y2="1100" stroke="#17212B" stroke-width="7"/>
+<line x1="1050" y1="1200" x2="1150" y2="1200" stroke="#17212B" stroke-width="7"/>
+<line x1="1150" y1="1100" x2="1250" y2="1100" stroke="#17212B" stroke-width="7"/>
+<line x1="1150" y1="1200" x2="1250" y2="1200" stroke="#17212B" stroke-width="7"/>
+<line x1="1250" y1="1100" x2="1250" y2="1200" stroke="#17212B" stroke-width="7"/>
+<text x="700.0" y="1260" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="600" fill="#17212B">22 stars · 2 per row, column, and region · touching stars present</text>
+<text x="700.0" y="1315" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="29" font-weight="700" fill="#0B6E4F">CHIP OUTPUT:  TWO NOT TOUCH</text>
+</svg>
